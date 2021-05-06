@@ -1,3 +1,12 @@
+## 0.2.1
+
+* Add `implements` to pubspec.yaml.
+
+## 0.2.0
+
+* Remove placeholder Dart file.
+* Update Dart SDK constraint for compatibility with null safety.
+
 ## 0.1.0+8
 
 * Update Flutter SDK constraint.
