@@ -1,4 +1,4 @@
-// Copyright 2019 The Chromium Authors. All rights reserved.
+// Copyright 2013 The Flutter Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
@@ -12,4 +12,7 @@ enum FlashMode {
 
   /// Always use the flash when taking a picture.
   always,
+
+  /// Turns on the flash light and keeps it on until switched off.
+  torch,
 }
